@@ -1,0 +1,5 @@
+{
+  "name": "SmartInbox AI",
+  "description": "An intelligent Gmail client powered by Gemini for email summarization, drafting, and management.",
+  "requestFramePermissions": []
+}
